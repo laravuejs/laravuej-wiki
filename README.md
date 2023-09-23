@@ -1,4 +1,4 @@
-# Seja bem-vind@ ao Laravuejs Documentation!
+# Seja bem-vind@ ao Laravuejs Documentação!
 Esta é uma página modelo de criação de documentação em Markdown
 
 # Breve definição
