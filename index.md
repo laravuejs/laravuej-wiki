@@ -7,8 +7,9 @@ Inicialmente faça uma breve definição sobre a ferramenta que está documentan
 Você pode criar um menu para detalhar as confiurações da ferramentas, conforme abaixo.
 
 ## **Conteúdo**
-  - [Opções](#opcoes)
-  - [Configurações](#configuracoes)
+- [Dicas](https://laravuejs.github.io/Dicas/Dicas.md)
+- [Opções](#opcoes)
+- [Configurações](#configuracoes)
 
 ### Opções
 
